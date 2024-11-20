@@ -1,4 +1,4 @@
-# Link Sitem
+# Links Website
 
  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/474917640066826240?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/474917640066826240)
 
@@ -32,5 +32,5 @@ Preload sırasında görünen yazı, **HTML dosyası** üzerinden değiştirilir
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone https://github.com/kullaniciadi/link-sitem.git
-cd link-sitem
+git clone https://github.com/Cibolettin/links-website.git
+cd links-website
